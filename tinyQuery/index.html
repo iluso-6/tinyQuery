@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Tiny Query</title>
+</head>
+<body>
+
+<h1>Tiny Query</h1>
+<button id="test">test</button>
+<footer></footer>
+
+<script type="text/javascript" src="tinyQuery.js"></script>
+
+	<script>
+    _T('#test').addEventListener('click', function(){
+	_T('h1').innerHTML = '_T("h1").innerHTML = "TINY QUERY" ';
+    });
+	</script>
+</body>
+</html>
