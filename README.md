@@ -8,7 +8,7 @@ function _T(selector, container) {
 ```
 <br><br>
 Example usage
-```
+```javascript
    _T('#Some Div').addEventListener('click', function(){
 	// do something here });
 ```
