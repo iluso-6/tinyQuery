@@ -1,5 +1,7 @@
 # tinyQuery
 <br><br>
+https://iluso-6.github.io/
+<br><br>
 ***I came across this somewhere, the entire file contents of tinyQuery.js***
 ```javascript
 function _T(selector, container) {
